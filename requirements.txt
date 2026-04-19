@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+joblib
+matplotlib
+jupyter
+notebook
+numpy
+transformers
+datasets
+evaluate
+accelerate
+torch
+kaggle
